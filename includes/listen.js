@@ -387,9 +387,9 @@ module.exports = function ({ api, models }) {
               return a.name.localeCompare(b.name);
             }
           });
-          let checkttBody = "[ Top 20 Tương Tác Ngày ]\n─────────────────\n";
+          let checkttBody = "[ Top 10 Tương Tác Ngày ]\n─────────────────\n";
           checkttBody += storage
-            .slice(0, 20)
+            .slice(0, 10)
             .map((item) => {
               return `${count++}. ${item.name} - ${item.count} tin.`;
             })
@@ -440,7 +440,7 @@ module.exports = function ({ api, models }) {
                 return a.name.localeCompare(b.name);
               }
             });
-            let checkttBody = "[ Top 20 Tương Tác Tuần ]\n─────────────────\n";
+            let checkttBody = "[ Top 10 Tương Tác Tuần ]\n─────────────────\n";
             checkttBody += storage
               .slice(0, 10)
               .map((item) => {
