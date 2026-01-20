@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "😡"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -15,9 +15,9 @@
     "autoClean": true,
     "ACCESSTOKEN": "",
     "BOTNAME": "𝓣𝓮𝓰𝓴🌱",
-    "AMDIN_NAME": "とかへ エマン ケマグサン（ケマグサン）",
+    "AMDIN_NAME": "Cúc Cu",
     "FACEBOOK_ADMIN": "https://www.facebook.com/share/1CJjr3yfr4/",
-    "PREFIX": "@",
+    "PREFIX": "!",
     "ADMINBOT": [
         "61561101096216"
     ],
