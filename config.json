@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "😡"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -14,15 +14,15 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Bot Lardeoi",
-    "AMDIN_NAME": "Melanie Iris (Lardeoi)",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/share/15jQ6QAfJv/",
-    "PREFIX": "/",
+    "BOTNAME": "⪼ ┊ 𝓝𝓲𝓽𝓼𝓪𝓴 𝓑𝓸𝓽 🌱 ||",
+    "AMDIN_NAME": "Cúc cu",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/61561101096216",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "61573902325644"
+        "61561101096216"
     ],
     "NDH": [
-        "61573902325644"
+        "61561101096216"
     ],
     "DATABASE": {
         "sqlite": {
@@ -42,7 +42,7 @@
     "menu": {
         "autoUnsend": {
             "status": true,
-            "timeOut": 90
+            "timeOut": 1000
         },
         "delayUnsend": 60
     },
